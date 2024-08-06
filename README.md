@@ -1,6 +1,3 @@
-# Hand-Written-Text-Detection-and-Prediction-from-Unstructured-Data
-# Handwritten Text Detection and Prediction
-
 This project focuses on detecting handwritten text from unstructured data and accurately predicting the detected text using a deep learning model. The detection model uses two datasets: one of handwritten text and the other of digital text. The prediction model combines a custom Convolutional Neural Network (CNN) with two Long Short-Term Memory (LSTM) layers. The final model is integrated with Streamlit to provide an interactive user interface.
 
 ## Table of Contents
@@ -29,7 +26,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com//handwritten-text-detection.git
+   git clone https:/Rahulyzk-007/github.com//handwritten-text-detection.git
    cd handwritten-text-detection
 
 ## Usage
